@@ -1,0 +1,19 @@
+<!-- 若以socket方式访问 -->
+<uwsgi>
+    <socket>:8077</socket>
+    <chdir>/home/dock/demosite</chdir>
+    <module>django_wsgi</module>
+    <processes>4</processes> <!-- 进程数 -->
+    <py-autoreload>1</py-autoreload>
+    <daemonize>uwsgi.log</daemonize>
+</uwsgi>
+
+<!-- 若以http方式访问 -->
+<uwsgi>
+    <http>:8077</http>
+    <chdir>/home/dock/demosite</chdir>
+    <module>django_wsgi</module>
+    <processes>4</processes> <!-- 进程数 -->
+    <py-autoreload>1</py-autoreload>
+    <daemonize>uwsgi.log</daemonize>
+</uwsgi>

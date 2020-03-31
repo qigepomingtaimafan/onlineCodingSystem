@@ -1,0 +1,23 @@
+#!/bin/bash
+
+export LD_LIBRARY_PATH=./
+
+oldifs="$IFS"
+IFS=$'\n'
+
+while true
+do
+    result=`docker ps -a |awk 'NR == 1 {next} {print}'`
+    for line in $result
+        do
+            id=`echo $line |awk '{print $1}'`
+            unit=`echo $line |awk '{print $5}'`
+            if [[ $unit == 'minutes' ]]
+            then
+                docker stop $id > /dev/null
+                docker rm $id > /dev/null
+            fi
+        done
+done
+
+IFS="$oldifs"

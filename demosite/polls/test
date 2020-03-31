@@ -1,0 +1,60 @@
+total 168
+drwxrwxr-x  5 dock dock   4096 Jan 18 07:56 .
+drwxr-xr-x 16 dock dock   4096 Jan 18 07:57 ..
+-rw-r--r--  1 dock dock 131072 Jan 18 07:34 db.sqlite3
+drwxrwxr-x  3 dock dock   4096 Jan 18 07:34 demosite
+-rw-rw-r--  1 dock dock    466 Nov 26 11:29 djangochina_socket.xml
+-rw-rw-r--  1 dock dock    168 Nov 26 11:23 django_wsgi.py
+-rw-rw-r--  1 root root    325 Dec  7 12:56 django_wsgi.pyc
+-rwxr-xr-x  1 dock dock    628 Nov 25 12:59 manage.py
+drwxrwxr-x  4 dock dock   4096 Jan 18 07:58 polls
+drwxrwxr-x  2 dock dock   4096 Nov 26 11:27 __pycache__
+-rw-r-----  1 dock dock   2562 Jan 18 07:57 uwsgi.log
+total 168
+drwxrwxr-x  5 dock dock   4096 Jan 18 07:56 .
+drwxr-xr-x 16 dock dock   4096 Jan 18 07:57 ..
+-rw-r--r--  1 dock dock 131072 Jan 18 07:34 db.sqlite3
+drwxrwxr-x  3 dock dock   4096 Jan 18 07:34 demosite
+-rw-rw-r--  1 dock dock    466 Nov 26 11:29 djangochina_socket.xml
+-rw-rw-r--  1 dock dock    168 Nov 26 11:23 django_wsgi.py
+-rw-rw-r--  1 root root    325 Dec  7 12:56 django_wsgi.pyc
+-rwxr-xr-x  1 dock dock    628 Nov 25 12:59 manage.py
+drwxrwxr-x  4 dock dock   4096 Jan 18 07:58 polls
+drwxrwxr-x  2 dock dock   4096 Nov 26 11:27 __pycache__
+-rw-r-----  1 dock dock   2562 Jan 18 07:57 uwsgi.log
+total 172
+drwxrwxr-x  5 dock dock   4096 Jan 18 07:56 .
+drwxr-xr-x 16 dock dock   4096 Jan 19 04:41 ..
+-rw-r--r--  1 dock dock 131072 Jan 18 07:34 db.sqlite3
+drwxrwxr-x  3 dock dock   4096 Jan 18 07:34 demosite
+-rw-rw-r--  1 dock dock    466 Nov 26 11:29 djangochina_socket.xml
+-rw-rw-r--  1 dock dock    168 Nov 26 11:23 django_wsgi.py
+-rw-rw-r--  1 root root    325 Dec  7 12:56 django_wsgi.pyc
+-rwxr-xr-x  1 dock dock    628 Nov 25 12:59 manage.py
+drwxrwxr-x  4 dock dock   4096 Jan 18 07:58 polls
+drwxrwxr-x  2 dock dock   4096 Nov 26 11:27 __pycache__
+-rw-r-----  1 dock dock   4357 Jan 19 04:41 uwsgi.log
+total 172
+drwxrwxr-x  5 dock dock   4096 Jan 19 04:48 .
+drwxr-xr-x 16 dock dock   4096 Jan 19 04:50 ..
+-rw-r--r--  1 dock dock 131072 Jan 18 07:34 db.sqlite3
+drwxrwxr-x  3 dock dock   4096 Jan 18 07:34 demosite
+-rw-rw-r--  1 dock dock    539 Jan 19 04:48 djangochina_socket.xml
+-rw-rw-r--  1 dock dock    168 Nov 26 11:23 django_wsgi.py
+-rw-rw-r--  1 root root    325 Dec  7 12:56 django_wsgi.pyc
+-rwxr-xr-x  1 dock dock    628 Nov 25 12:59 manage.py
+drwxrwxr-x  4 dock dock   4096 Jan 19 04:45 polls
+drwxrwxr-x  2 dock dock   4096 Nov 26 11:27 __pycache__
+-rw-r-----  1 dock dock   6053 Jan 19 04:50 uwsgi.log
+total 172
+drwxrwxr-x  5 dock dock   4096 Jan 19 04:48 .
+drwxr-xr-x 18 dock dock   4096 Jan 19 05:25 ..
+-rw-r--r--  1 dock dock 131072 Jan 18 07:34 db.sqlite3
+drwxrwxr-x  3 dock dock   4096 Jan 18 07:34 demosite
+-rw-rw-r--  1 dock dock    539 Jan 19 04:48 djangochina_socket.xml
+-rw-rw-r--  1 dock dock    168 Nov 26 11:23 django_wsgi.py
+-rw-rw-r--  1 root root    325 Dec  7 12:56 django_wsgi.pyc
+-rwxr-xr-x  1 dock dock    628 Nov 25 12:59 manage.py
+drwxrwxr-x  4 dock dock   4096 Jan 19 04:45 polls
+drwxrwxr-x  2 dock dock   4096 Nov 26 11:27 __pycache__
+-rw-r-----  1 dock dock   6255 Jan 19 04:52 uwsgi.log
